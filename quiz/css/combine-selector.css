@@ -11,3 +11,11 @@ body {
     font-size: 3em;
     font-style: italic;
   }
+
+  h1.main {
+    color: red;
+  }
+
+  p.sub {
+    color: green;
+  }
